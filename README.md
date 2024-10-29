@@ -1,0 +1,4 @@
+This repo is meant to hold the homework assignments for 8th Light's first AI group cohort. More specifically the homework assignments for Group 1. Each file has been put together with the help of OpenAIs chatGPT and each run as a stand alone. The assignment.py files are flask projects that can be run through the command line using the `python {filename}` command. Meanwhile, the mapper file is a script file to help develop the embedding function of the projects.
+
+Prerequisites:
+In addition to librariaries such as Pandas and Numpy, lapack is also required. Lapack allows for the computation of linear algebra processes and is essential for the mapper.py. Lapack can be installed using the homebrew command `brew install lapack`. The package is rather large so please read up on the lapack documentation to see if it is right for your machine.  
